@@ -216,22 +216,5 @@ public class Principal {
 	    return fatorial;
 	}
 	
-	// ========================================
-	// MÉTODO PARA QUESTÃO 6
-	// ========================================
-	// TODO: Implemente este método para retornar o maior entre dois números
-	public static int encontrarMaior(int a, int b) {
-		// SEU CÓDIGO AQUI
-		return 0; // Remova esta linha e implemente a lógica
-	}
-	
-	// ========================================
-	// MÉTODO PARA QUESTÃO 10
-	// ========================================
-	// TODO: Implemente este método para calcular o fatorial de um número
-	// Use um laço for para fazer o cálculo
-	public static long calcularFatorial(int n) {
-		// SEU CÓDIGO AQUI
-		return 0; // Remova esta linha e implemente a lógica
-	}
+
 }
